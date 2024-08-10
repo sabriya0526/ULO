@@ -35,6 +35,7 @@ on:
           - rk3566-orangepi-3b
           - rk3588-orangepi-5plus
           - rk3588s-orangepi-5
+          - rk3328-nanopi-neo3
       rootfs_url:
         description: "Upload ROOTFS via link (MEGA,mediafire,GDrive)"
         required: false
